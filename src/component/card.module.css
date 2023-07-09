@@ -1,0 +1,8 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  max-height: 20rem;
+  max-width: 20rem;
+  border: 2px solid olivedrab;
+  padding: 0.5rem 1rem;
+}
